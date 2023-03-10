@@ -1,4 +1,3 @@
-
 // top  down-start from FilterableProductTable
 import "./styles.css";
 
